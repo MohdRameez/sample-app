@@ -7,6 +7,7 @@ gem 'rails', '3.2.16'
 
 gem 'bootstrap-sass', '2.0.0'
 gem 'mysql2'
+gem 'bcrypt-ruby', '3.0.1'
 
 # Gems used only for assets and not required
 # in production environments by default.
